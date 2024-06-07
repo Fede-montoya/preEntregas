@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "title": "Nuevo Audi A3",
+        "description": "Description of the Audi A3",
+        "code": "AUDI-A3",
+        "price": 50000,
+        "status": true,
+        "stock": 10,
+        "category": "Automóviles",
+        "thumbnails": ["path/image_audi_a3.jpg"]
+    },
+    {
+        "id": 2,
+        "title": "Audi A1",
+        "description": "Description of the Audi A1",
+        "code": "AUDI-A1",
+        "price": 40000,
+        "status": true,
+        "stock": 8,
+        "category": "Automóviles",
+        "thumbnails": ["path/image_audi_a1.jpg"]
+    },
+    {
+        "id": 3,
+        "title": "Mercedes Benz GLA 250",
+        "description": "Description of the Mercedes Benz GLA 250",
+        "code": "MB-GLA250",
+        "price": 50000,
+        "status": true,
+        "stock": 5,
+        "category": "Automóviles",
+        "thumbnails": ["path/image_mercedes_gla250.jpg"]
+    },
+    {
+        "id": 4,
+        "title": "Toyota SW4 GR",
+        "description": "Description of the Toyota SW4 GR",
+        "code": "TOYOTA-SW4-GR",
+        "price": 65000,
+        "status": true,
+        "stock": 7,
+        "category": "Automóviles",
+        "thumbnails": ["path/image_toyota_sw4_gr.jpg"]
+    },
+    {
+        "id": 5,
+        "title": "Ford Focus",
+        "description": "Description of the Ford Focus",
+        "code": "FORD-FOCUS",
+        "price": 38000,
+        "status": true,
+        "stock": 6,
+        "category": "Automóviles",
+        "thumbnails": ["path/image_ford_focus.jpg"]
+    },
+    {
+        "id": 6,
+        "title": "Peugeot 208 GTI",
+        "description": "Description of the Peugeot 208 GTI",
+        "code": "PEUGEOT-208-GTI",
+        "price": 42000,
+        "status": true,
+        "stock": 9,
+        "category": "Automóviles",
+        "thumbnails": ["path/image_peugeot_208_gti.jpg"]
+    },
+    {
+        "id": 7,
+        "title": "Audi Q2",
+        "description": "Description of the Audi Q2",
+        "code": "AUDI-Q2",
+        "price": 52000,
+        "status": true,
+        "stock": 8,
+        "category": "Automóviles",
+        "thumbnails": ["path/image_audi_q2.jpg"]
+    },
+    {
+        "id": 8,
+        "title": "Audi Q3",
+        "description": "Description of the Audi Q3",
+        "code": "AUDI-Q3",
+        "price": 58000,
+        "status": true,
+        "stock": 6,
+        "category": "Automóviles",
+        "thumbnails": ["path/image_audi_q3.jpg"]
+    },
+    {
+        "id": 9,
+        "title": "BMW 135i",
+        "description": "Description of the BMW 135i",
+        "code": "BMW-135i",
+        "price": 32000,
+        "status": true,
+        "stock": 4,
+        "category": "Automóviles",
+        "thumbnails": ["path/image_bmw_135i.jpg"]
+    },
+    {
+        "id": 10,
+        "title": "Volkswagen Tiguan",
+        "description": "Description of the Volkswagen Tiguan",
+        "code": "VW-TIGUAN",
+        "price": 24000,
+        "status": true,
+        "stock": 7,
+        "category": "Automóviles",
+        "thumbnails": ["path/image_volkswagen_tiguan.jpg"]
+    }
+]
